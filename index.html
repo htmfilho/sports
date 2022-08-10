@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-md-8">
+    <h1 class="post-title">Sports</h1>
+
+    <img src="{{ "/images/pages/main_banner.jpg" | relative_url }}" style="margin-bottom: 10px; margin-top: 10px;">
+
+    <p class="post-content">
+      Apart from my programming career, I'm a recreational endurance athlete, focused on running and swimming. These are the 
+      cheapest sports to practice and also the ones that deliver the most health benefits. Actually, I'm mostly a runner that 
+      uses swimming for cardio and recovery. I'm into endurance because I'm not fast, so I prefer to practice longer distances 
+      for long periods. I race a lot and when I race I like to get better every time, but there are some races we run to get
+      a great time, and there are other races we run to have a great time.
+    </p>
+
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <h2>Recent Experiences</h2>
+
+        {% for post in site.posts limit:4 %}
+          <header class="post-header">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | prepend: site.baseurl }}"><h1 class="post-title">{{post.title}}</h1></a>
+          </header>
+
+          <div class="post-content" itemprop="articleBody">
+            {{post.excerpt}}
+            <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">Continue reading...</a>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <div class="panel panel-info">
+      <div class="panel-heading">
+        <h3 class="panel-title">Previous Experiences</h3>
+      </div>
+      <div class="panel-body">
+        <div>
+          {% for post in site.posts offset:4 limit:8 %}
+            <img src="{{ post.image }}">
+            <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+            <hr>
+          {% endfor %}
+        </div>
+        <p><a href="{{ '/feed.xml' | prepend: site.baseurl }}" class="btn btn-default">Subscribe via RSS</a></p>
+      </div>
+    </div>
+  </div>
+</div>

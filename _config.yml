@@ -1,0 +1,32 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: No Time To Make It Shorter
+author: Hildeberto Mendonça
+description: > # this means to ignore newlines until "baseurl:"
+  This is my personal website, where I share my own views, knowledge and
+  interests. I don't represent the views of my employer or clients. I do my best
+  to publish exclusive content, which usually comes out after some research or
+  thoughts of my own.
+baseurl: "/sports"
+url: "https://www.hildeberto.com/sports/"
+permalink: /:year/:month/:title.html
+excerpt_separator: "<!-- more -->"
+
+twitter_username: htmfilho
+github_username: htmfilho
+google_analytics: UA-2938015-2
+disqus:
+  shortname: hildeberto
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude: [Gemfile,
+          Gemfile.lock]
+
+port: 4000
