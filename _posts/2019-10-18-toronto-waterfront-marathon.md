@@ -6,4 +6,4 @@ image: /sports/images/posts/toronto-waterfront-marathon.jpg
 categories: fhir healthcare api standard
 ---
 
-![Sketching a Dragon](/sports/images/posts/toronto-waterfront-marathon.jpg)
+![Toronto Waterfront Marathon](/sports/images/posts/toronto-waterfront-marathon.jpg)

@@ -6,4 +6,4 @@ image: /sports/images/posts/manitoba-marathon.jpg
 categories: fhir healthcare api standard
 ---
 
-![Sketching a Dragon](/sports/images/posts/manitoba-marathon.jpg)
+![Manitoba Marathon](/sports/images/posts/manitoba-marathon.jpg)

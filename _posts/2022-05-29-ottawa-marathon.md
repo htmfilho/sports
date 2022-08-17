@@ -6,4 +6,4 @@ image: /sports/images/posts/ottawa-marathon.jpg
 categories: fhir healthcare api standard
 ---
 
-![Sketching a Dragon](/sports/images/posts/ottawa-marathon.jpg)
+![Ottawa Marathon](/sports/images/posts/ottawa-marathon.jpg)

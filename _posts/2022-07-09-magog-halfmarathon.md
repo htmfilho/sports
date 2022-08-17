@@ -6,4 +6,4 @@ image: /sports/images/posts/magog-half-marathon.jpeg
 categories: fhir healthcare api standard
 ---
 
-![Sketching a Dragon](/sports/images/posts/magog-half-marathon.jpeg)
+![Magog Half-Marathon](/sports/images/posts/magog-half-marathon.jpeg)
