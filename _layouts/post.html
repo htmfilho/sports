@@ -26,11 +26,12 @@ layout: default
         <a class="btn btn-default" href="{{page.previous.url}}" title="{{page.previous.title}}">&laquo; Previous</a>
       {% endif %}
       {% if page.next.url %}
-        <a class="btn btn-default pull-right" href="{{page.next.url}}" title="{{page.next.title}}">Next &raquo;</a>
+        <a class="btn btn-default pull-right" href="/{{page.next.url}}" title="{{page.next.title}}">Next &raquo;</a>
       {% endif %}
       </div>
 
-      <hr>
+      <br><br>
+
       {% if site.disqus.shortname %}
         {% include disqus_comments.html %}
       {% endif %}
