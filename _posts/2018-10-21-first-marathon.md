@@ -7,3 +7,5 @@ categories: running race
 ---
 
 ![First Marathon](/sports/images/posts/first-marathon.jpeg)
+
+"The longest distance you have to conquer in a race is the 5 inches between your ears."
