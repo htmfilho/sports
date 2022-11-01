@@ -2,11 +2,11 @@
 layout: post
 title: "My First Marathon: Toronto Waterfront 2018"
 date: 2018-10-21 12:00:00 +0200
-image: /sports/images/posts/first-marathon.jpeg
+image: /sports/images/posts/toronto-waterfront-marathon-2018.jpeg
 categories: running race marathon
 ---
 
-![First Marathon](/sports/images/posts/first-marathon.jpeg)
+![Toronto Waterfront Marathon 2018](/sports/images/posts/toronto-waterfront-marathon-2018.jpeg)
 
 >>"The longest distance you have to conquer in a race is the 5 inches between your ears."
 
