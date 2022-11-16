@@ -7,3 +7,5 @@ categories: running race
 ---
 
 ![The Runway](/sports/images/posts/the-runway.jpg)
+
+In the spirit of the 5k Foam Fest, 
