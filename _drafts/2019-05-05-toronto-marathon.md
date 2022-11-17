@@ -7,3 +7,5 @@ categories: running race
 ---
 
 ![Toronto Marathon](/sports/images/posts/toronto-marathon.jpg)
+
+<!-- more -->

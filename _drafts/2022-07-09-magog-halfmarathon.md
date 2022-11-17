@@ -11,3 +11,5 @@ categories: running race trail
 Ottawa Marathon was so painful that I decided to learn more about running and stop relying on my training assumptions.
 
 https://www.runnersworld.com/uk/training/a776622/how-slowing-down-can-help-you-speed-up/
+
+<!-- more -->

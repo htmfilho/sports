@@ -7,3 +7,5 @@ categories: running race
 ---
 
 ![Toronto Waterfront Marathon 2019](/sports/images/posts/toronto-waterfront-marathon-2019.jpg)
+
+<!-- more -->

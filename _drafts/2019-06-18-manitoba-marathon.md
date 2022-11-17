@@ -7,3 +7,5 @@ categories: running race
 ---
 
 ![Manitoba Marathon](/sports/images/posts/manitoba-marathon.jpg)
+
+<!-- more -->
