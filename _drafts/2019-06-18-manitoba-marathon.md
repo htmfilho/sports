@@ -9,3 +9,5 @@ categories: running race
 ![Manitoba Marathon](/sports/images/posts/manitoba-marathon.jpg)
 
 <!-- more -->
+
+Time: 04:07:11
