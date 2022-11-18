@@ -9,3 +9,5 @@ categories: running race
 ![Toronto Marathon](/sports/images/posts/toronto-marathon.jpg)
 
 <!-- more -->
+
+Time: 04:18:12

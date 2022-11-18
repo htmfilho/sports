@@ -17,3 +17,5 @@ My training after the [Toronto Waterfront Marathon](https://www.hildeberto.com/s
 For a short while, I forgot  all pain when approaching the finish line. It was in the middle of a hockey stadium, with all light spots on us and the grandstand full of families and friends waiting for their loved ones. We got a can of beer, bananas, and treats, pretty cool stuff. Then I joined my lovely family to get back home.
 
 ATB is only comparable to ATB. It's an odd distance with a finish that is hard to do strongly. It is perfect to start the spring race season, with the scale and excitement of a city marathon. I can't wait to do it again.
+
+Time: 03:04:48
