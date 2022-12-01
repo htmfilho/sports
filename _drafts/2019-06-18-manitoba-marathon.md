@@ -10,4 +10,7 @@ categories: running race
 
 <!-- more -->
 
+My best marathon time so far and for many others yet to come.
+
 Time: 04:07:11
+Elevation gain: 

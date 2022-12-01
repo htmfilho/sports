@@ -11,4 +11,4 @@ categories: running race
 <!-- more -->
 
 Time: 04:32:16; Best Time: 04:23:24; 08:52 slower.
-
+Elevation gain: 

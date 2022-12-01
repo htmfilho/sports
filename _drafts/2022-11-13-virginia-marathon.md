@@ -9,3 +9,6 @@ categories: running race trail
 ![Virginia Marathon 2022](/sports/images/posts/virginia-marathon-2022.jpg)
 
 <!-- more -->
+
+Time:
+Elevation gain:

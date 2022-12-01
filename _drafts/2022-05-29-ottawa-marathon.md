@@ -11,3 +11,4 @@ categories: running race
 <!-- more -->
 
 Time: 04:48:44
+Elevation gain: 
