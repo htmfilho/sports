@@ -31,6 +31,6 @@ In his book "Endure", Alex Hutchinson reports that we get progressively more fat
 I didn't get a personal best, but I was 1 minute from it. I believe Jeff's intervals helped me to face the remaining distance. My initial goal was finishing under 4 hours and I was on track until the 33km, which is my longest stretch running at 5:30/km pace. At least my finish time is my best time after the pandemic, also above average overall, in my gender and age categories. Best of all: I felt very minimal muscular pain the day after, like I could go for a run without issues.
 
 **Time**: 04:08:42\
-**Best Previous Time at this Race**: 04:23:24; 14:18 faster.\
+**Best Previous Time at this Race**: 04:23:24\
 **Best Marathon Time to Date**: 04:07:11\
 **Elevation Gain**: 160 m
