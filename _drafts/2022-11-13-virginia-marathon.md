@@ -28,5 +28,6 @@ I think some pre-race changes made the difference this time around. The day befo
 
 Overall, the race was great! Well organized, beautiful view, kind people, supportive runners, and excited for finishing one more marathon feeling so strong. I can't recommend enough. Sure I will come back one day.
 
-Time:
-Elevation gain:
+**Time**: 4:22:24\
+**Best Marathon Time to Date**: 04:07:11\
+**Elevation Gain**: 921 m
