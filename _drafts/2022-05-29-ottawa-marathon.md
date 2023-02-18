@@ -10,5 +10,7 @@ categories: running race
 
 <!-- more -->
 
+![](/sports/images/posts/ottawa-marathon-2.jpg)
+
 Time: 04:48:44
 Elevation gain: 
