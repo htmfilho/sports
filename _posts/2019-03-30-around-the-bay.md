@@ -18,4 +18,7 @@ For a short while, I forgot  all pain when approaching the finish line. It was i
 
 ATB is only comparable to ATB. It's an odd distance with a finish that is hard to do strongly. It is perfect to start the spring race season, with the scale and excitement of a city marathon. I can't wait to do it again.
 
-Time: 03:04:48
+**Distance**: 30 km\
+**Time**:  03:04:48\
+**Average Pace**: 6:23/km\
+**Elevation Gain**: 194 m
