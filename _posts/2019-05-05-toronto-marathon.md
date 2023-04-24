@@ -24,5 +24,6 @@ By the 36 km mark I started walking, tired, thirty, and disappointed for sharing
 
 Despite the struggle, I dropped 7 minutes from my first marathon. Not bad for a second marathon. I went to bed that night thinking about how could I finish a race without suffering so much.
 
-Time: 04:18:12
-Elevation gain: 
+**Time**: 04:18:12\
+**Best Marathon Time to Date**: 04:23:24\
+**Elevation**: 199 m

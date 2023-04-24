@@ -33,4 +33,4 @@ I didn't get a personal best, but I was 1 minute from it. I believe Jeff's inter
 **Time**: 04:08:42\
 **Best Previous Time at this Race**: 04:23:24\
 **Best Marathon Time to Date**: 04:07:11\
-**Elevation Gain**: 160 m
+**Elevation**: 160 m

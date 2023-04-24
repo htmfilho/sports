@@ -12,5 +12,6 @@ categories: running race
 
 ![](/sports/images/posts/ottawa-marathon-2.jpg)
 
-Time: 04:48:44
-Elevation gain: 
+**Time**: 04:48:44\
+**Best Marathon Time to Date**: 04:07:11\
+**Elevation**: 175 m

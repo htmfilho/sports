@@ -24,4 +24,5 @@ I was so excited that I started too fast. Yet I was feeling strong and didn't mi
 
 I finished my first marathon totally exhausted. My legs were flooded with lactic acid, my skin covered with salt (the sodium that remains after sweat evaporation), reeling from dizziness, but with a huge smile on my face. After such a great effort, it was nice to have my family waiting for me. I got a medal, a banana, and a few more treats. We were all craving for a well served burger, so we sat to share experiences, but not before I closed my eyes and drank my 20oz pint in a single shot.
 
-Time: 04:23:24
+**Time**: 04:23:24\
+**Elevation**: 160 m

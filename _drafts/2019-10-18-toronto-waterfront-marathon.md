@@ -10,5 +10,7 @@ categories: running race
 
 <!-- more -->
 
-Time: 04:32:16; Best Time: 04:23:24; 08:52 slower.
-Elevation gain: 
+**Time**: 04:32:17\
+**Best Previous Time at this Race**: 04:23:24\
+**Best Marathon Time to Date**: 04:07:11\
+**Elevation**: 134 m

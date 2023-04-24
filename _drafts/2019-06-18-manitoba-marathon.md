@@ -14,3 +14,7 @@ My best marathon time so far and for many others yet to come.
 
 Time: 04:07:11
 Elevation gain: 
+
+**Time**: 04:07:11\
+**Best Marathon Time to Date**: 04:18:12\
+**Elevation**: 55 m
