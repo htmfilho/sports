@@ -3,7 +3,7 @@ layout: post
 title: "My First Marathon: Toronto Waterfront 2018"
 date: 2018-10-21 12:00:00 +0200
 image: /sports/images/posts/toronto-waterfront-marathon-2018.jpeg
-categories: running race marathon toronto
+categories: running race marathon canada
 ---
 
 ![Toronto Waterfront Marathon 2018](/sports/images/posts/toronto-waterfront-marathon-2018.jpeg)

@@ -3,7 +3,7 @@ layout: post
 title: "Toronto Waterfront Marathon 2022"
 date: 2022-10-16 12:00:00 +0200
 image: /sports/images/posts/toronto-waterfront-marathon-2022.jpeg
-categories: running race toronto
+categories: running race marathon canada
 ---
 
 ![Toronto Waterfront Marathon 2022](/sports/images/posts/toronto-waterfront-marathon-2022.jpeg)

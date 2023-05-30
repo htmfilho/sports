@@ -3,7 +3,7 @@ layout: post
 title: "Les 20 km de Bruxelles"
 date: 2018-05-27 12:00:00 +0200
 image: /sports/images/posts/20km-de-bruxelles.jpg
-categories: running race brussels
+categories: running race belgium
 ---
 
 ![Les 20km de Bruxelles](/sports/images/posts/20km-de-bruxelles.jpg)

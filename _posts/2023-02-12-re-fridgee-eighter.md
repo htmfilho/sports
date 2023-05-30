@@ -3,7 +3,7 @@ layout: post
 title: "Re-Fridgee Eighter 2023"
 date: 2023-02-12 12:00:00 +0200
 image: /sports/images/posts/re-fridgee-eighter-2023.jpg
-categories: running race waterloo
+categories: running race canada
 
 ---
 
