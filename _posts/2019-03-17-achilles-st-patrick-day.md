@@ -3,7 +3,7 @@ layout: post
 title: "Achilles St. Patrick's Day 10K 2019"
 date: 2019-03-17 12:00:00 +0200
 image: /sports/images/posts/achilles-st-patrick-day-2019.jpg
-categories: running race beer canada
+categories: running races canada
 
 ---
 
