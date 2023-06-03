@@ -12,6 +12,7 @@ With a 200 m elevation gain and temperature above 20︒C, Calgary hosted a marat
 
 <!-- more -->
 
+**Number**: 9\
 **Time**: 04:05:19\
 **Best Previous Time at this Race**: 04:18:12\
 **Best Marathon Time to Date**: 04:07:11\

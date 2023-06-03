@@ -42,6 +42,7 @@ Well, as the saying goes, "after the storm comes..." more storm?! My first impre
 
 Despite all these issues, the Toronto Marathon was still important to me. I got a new PB, which serves now as a baseline for my current goal of finishing the distance under 4 hours.
 
+**Number**: 8\
 **Time**: 04:05:19\
 **Best Previous Time at this Race**: 04:18:12\
 **Best Marathon Time to Date**: 04:07:11\
