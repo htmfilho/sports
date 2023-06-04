@@ -33,7 +33,6 @@ Is there a chance he has "hit the wall"? It is very unlikely for a runner with a
 I would like to emphasize that I do not blame the organization of the race for what has happened. I strongly recommend it to all road runners looking for a great experience. I will likely plan another vacation to Alberta around this time of the year to be able to run it again. Until then, I will certainly have time to get my strategy straight.
 
 **Number**: 9\
-**Time**: 04:05:19\
-**Best Previous Time at this Race**: 04:18:12\
-**Best Marathon Time to Date**: 04:07:11\
-**Elevation**: 193 m
+**Time**: 04:20:21\
+**Best Marathon Time to Date**: 04:05:19\
+**Elevation**: 200 m
