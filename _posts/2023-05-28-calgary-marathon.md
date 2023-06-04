@@ -18,7 +18,7 @@ As I have reported in my [previous post](/sports/2023/05/toronto-marathon.html),
 
 In my naivety of trusting those pacers, I had no more fuel left to fully run the race. I had to walk. A marathon is a long race and running it without a strategy, a plan to face the hills, to eat, to hydrate, makes it just another long run. I was frustrated when I finally realized my strategy has failed because of a variable I couldn't control: the behavior of the pacer I decided to follow. Sometimes it works, sometimes not. I had to learn it through experience. During the next marathon, I will ignore the pacers and trust the math and physics embedded in my smartwatch.
 
-Out of curiosity, I browsed Strava and found the profile of the 4:10h pacer.
+Out of curiosity, I browsed Strava and found the [profile of the 4:10h pacer](https://www.strava.com/activities/9159132215/overview).
 
 ![Pacer 4:10h Strava profile](/sports/images/posts/calgary-marathon-pacer-profile.png)
 
