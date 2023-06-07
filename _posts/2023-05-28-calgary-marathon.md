@@ -8,7 +8,7 @@ categories: running race marathon canada
 
 ![Calgary Marathon](/sports/images/posts/calgary-marathon-2023.jpg)
 
-With a 200 m elevation gain and temperature above 20︒C, Calgary hosted a marathon as hard as [Ottawa](/sports/2022/05/ottawa-marathon.html) last year. I worked more on my acclimation to the warming weather this year, but it wasn't enough to contain my profuse sweating. At least I was 25 minutes faster than that fateful Ottawa race, showing gradual progress over time. On the other hand, compared to the marathon I ran less than a month ago, it was a shame. Should I put all the blame on me?
+With a 200 m elevation gain and temperature above 20︒C, Calgary hosted a marathon as hard as [Ottawa](/sports/2022/05/ottawa-marathon.html) last year. I worked more on my acclimation to the warming weather this year, but it wasn't enough to contain my profuse sweating. At least I was 25 minutes faster than that fateful Ottawa race, showing gradual progress over time. On the other hand, compared to [the marathon I ran less than a month ago](/sports/2023/05/toronto-marathon.html), it was a shame. Should I put all the blame on me?
 
 <!-- more -->
 
