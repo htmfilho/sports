@@ -18,7 +18,7 @@ The first edition of the ENDURrun Sport 2023 started with a moderate 10 km on th
 
 ## Stage 2: 7.5km at Riverbluffs Park, Cambridge
 
-The second stage was a time trial. Runners started the 7.5km distance one by one, 30 seconds from each other, with the slower starting first and the fastest starting last, based on the results of Stage 1. I was the 13th to start and passed all the previous runners, but I didn't gain any new positions. At this point, the gap between the 12th, the 14th, and I seemed to be enough to keep me safe in my current position.
+The second stage was a time trial on the Grand River Trail, at Riverbluffs Park, Cambridge. The trail is scenic, it has many ups and downs, but it is not technical. Runners started the 7.5km distance one by one, 30 seconds from each other, with the slower starting first and the fastest starting last, based on the results of Stage 1. I was the 13th to start and passed all the previous runners, but I didn't gain any new positions. At this point, the gap between the 12th, the 14th, and I seemed to be enough to keep me safe in my current position.
 
 ## Stage 3
 
