@@ -32,7 +32,9 @@ The only difference between Stages 3 and 4 was the distance. The course was the 
 
 The fifth stage was tough. We ran a loop twice, on a pretty hilly trail along the Grand River. The trail is well-covered by trees and not technical at all, but part of it was closed for maintenance, forcing the organizers to adapt the course. I was optimistic after my Stage 4 performance, so I tried to closely follow faster runners, but soon the hills showed me my realistic place in the race. They were so steep that I got my heart rate up pretty quickly. The gap increased between me and the next runner to the point I had to change my strategy to simply maintain my position.
 
-## Stage 6: Thursday
+## Stage 6: Thursday, 13.4km at Baden Hills, Wilmot
+
+Cancelled! Weather Canada has a history of overreacting to weather conditions, so everyone was skeptical when they announced a severe thunderstorm coming to the area. Runners, volunteers, and organizers headed to Baden Hills as planned, just to be surprised by the force of the storm, which left part of the group stuck under the tents and others in the parking lot. I was in the car and could barely see outside, given the density of the rain. I was afflicted in there, thinking if I could be of any help outside, but the fear of being hit by lightning was overwhelming. On my way home, I witnessed at least three lightning strikes on the ground, which confirmed my worries. I learned later, through the Facebook group, that everybody got safely at home. That's what matters now.
 
 ## Stage 7: Saturday
 
