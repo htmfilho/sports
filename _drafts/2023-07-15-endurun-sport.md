@@ -14,11 +14,11 @@ Head
 
 ## Stage 1: Sunday, 10km at RIM Park, Waterloo
 
-The first edition of the ENDURrun Sport 2023 started with a moderate 10 km on the Grand River Trail, in the surroundings of RIM Park. The course was a 5km loop, mostly flat, but with up hills at the end. The field started with 46 participants and everybody finished the first stage. I started slowly, one of the last ones in the pack. Most of the runners pushed strong from the beginning, which scared me at first, but as I warmed up, I got slowly faster and caught up with the others. I gained 6 positions and finished in 13th.
+The first edition of the ENDURrun Sport 2023 started with a moderate 10 km on the Grand River Trail, in the surroundings of RIM Park. The course was a 5km loop, mostly flat, but with hills at the end. I started slowly, one of the last ones in the pack. Most of the runners pushed strong from the beginning, which scared me at first, but as I warmed up, I got slowly faster and caught up with the others. I finished in 14th overall and 10th among the males.
 
 ## Stage 2: Monday, 7.5km at Riverbluffs Park, Cambridge
 
-The second stage was a time trial on the Grand River Trail, at Riverbluffs Park, Cambridge. The trail is scenic, it has many ups and downs, but it is not technical. Runners started the 7.5km distance one by one, 30 seconds from each other, with the slower starting first and the fastest starting last, based on the results of Stage 1. I was the 13th to start and passed all the previous runners, but I didn't gain any new positions. At this point, the gap between the 12th, the 14th, and I seemed to be enough to keep me safe in my current position.
+The second stage was a time trial on the Grand River Trail, at Riverbluffs Park, Cambridge. The trail is scenic, it has many ups and downs, but it is not technical. Runners started the 7.5km distance one by one, 30 seconds from each other, with the slower starting first and the fastest starting last, based on the results of Stage 1. I was the 13th to start and passed all the previous runners, but my position stayed the same, finishing in 13th place overall and 9th among the males. At this point, the gap between the 12th, the 14th, and I seemed to be enough to keep me safe in my current position.
 
 ## Stage 3: Tuesday, 5km at Shade's Mills Conservation Area, Cambridge
 
@@ -34,12 +34,14 @@ The fifth stage was tough. We ran a loop twice, on a pretty hilly trail along th
 
 ## Stage 6: Thursday, 13.4km at Baden Hills, Wilmot
 
-Cancelled! Weather Canada has a history of overreacting to weather conditions, so everyone was skeptical when they announced a severe thunderstorm coming to the area. Runners, volunteers, and organizers headed to Baden Hills as planned, just to be surprised by the force of the storm, which left part of the group stuck under the tents and others in the parking lot. I was in the car and could barely see outside, given the density of the rain. I was afflicted in there, thinking if I could be of any help outside, but the fear of being hit by lightning was overwhelming. On my way home, I witnessed at least three lightning strikes on the ground, which confirmed my worries. I learned later, through the Facebook group, that everybody got safely at home. That's what matters now.
+Canceled! Weather Canada has a history of overreacting to weather conditions, so everyone was skeptical when they announced a severe thunderstorm coming to the area. Runners, volunteers, and organizers headed to Baden Hills as planned, just to be surprised by the force of the storm, which left part of the group stuck under the tents and others in the parking lot. I was in the car and could barely see outside, given the density of the rain. I was afflicted in there, thinking if I could be of any help outside, but the fear of being hit by lightning was overwhelming. On my way home, I witnessed at least three lightning strikes on the ground, which confirmed my worries. I learned later, through the Facebook group, that everybody got safely at home. That's what matters.
 
-## Stage 7: Saturday
+## Stage 7: Saturday, 5km at Resurrection Catholic Secondary School, Kitchener
 
-## Stage 8: Sunday
+The seventh stage was a track race. We had to run 12.5 laps in the inner lane of the track. Because it was a short, flat, and fast course, we couldn't do much to bridge the gap between runners, so the overall ranking stayed the same, but that was so fun! The participants were divided into two heats, the fastest times in the first one and the remaining in the second heat. I was in the second one and had the chance to see the fastest running putting in place their strategies. Some started fast just to find themselves fading away in the last kilometers, others started slower to push harder at the end, and leaders took it easy, saving energy for the final stage. My strategy was to start slow and focus on passing the next runner, one by one until I couldn't anymore. I ended up finishing my heat first, which was unexpected.
+
+## Stage 8: Sunday, Half-Marathon at RIM Park, Waterloo
 
 ## Tips
 
-- I left my bib in the car since I had to drive to all race locations
+- I left my bib in the car since I had to drive to race locations
