@@ -8,13 +8,13 @@ categories: running race endurance challenge canada
 
 ![ENDURrun Sport 2023](/sports/images/posts/endurrun-sport-2023.jpg)
 
-Head
+What is great about running is the countless variety of challenges we can face out there. There are races of all distances, all terrains, elevations, weather, and even all together in a single event. That's the case of ENDURrun, a staged race that offers something different every day for 7 days. I had the privilege of competing at the Sport edition this summer, which covers 80km of paved paths, trails, and tracks in different locations in the Waterloo region. This half the distance of the Ultimate edition, which challenges runners to complete 100 miles in a week.
 
 <!-- more -->
 
 ## Stage 1: Sunday, 10km at RIM Park, Waterloo
 
-The first edition of the ENDURrun Sport 2023 started with a moderate 10 km on the Grand River Trail, in the surroundings of RIM Park. The course was a 5km loop, mostly flat, but with hills at the end. I started slowly, one of the last ones in the pack. Most of the runners pushed strong from the beginning, which scared me at first, but as I warmed up, I got slowly faster and caught up with the others. I finished in 14th overall and 10th among the males.
+The first edition of the ENDURrun Sport 2023 started with a moderate 10 km on the Grand River Trail, in the surroundings of RIM Park. The course was a 5km loop, mostly flat, but with hills at the end. I started slowly, one of the last ones in the pack. Most of the runners pushed strong from the beginning, which scared me at first, but as I warmed up, I got slowly faster and caught up with the others. I finished 14th overall and 10th among the males.
 
 ## Stage 2: Monday, 7.5km at Riverbluffs Park, Cambridge
 
@@ -34,7 +34,7 @@ The fifth stage was tough. We ran a loop twice, on a pretty hilly trail along th
 
 ## Stage 6: Thursday, 13.4km at Baden Hills, Wilmot
 
-Canceled! Weather Canada has a history of overreacting to weather conditions, so everyone was skeptical when they announced a severe thunderstorm coming to the area. Runners, volunteers, and organizers headed to Baden Hills as planned, just to be surprised by the force of the storm, which left part of the group stuck under the tents and others in the parking lot. I was in the car and could barely see outside, given the density of the rain. I was afflicted in there, thinking if I could be of any help outside, but the fear of being hit by lightning was overwhelming. On my way home, I witnessed at least three lightning strikes on the ground, which confirmed my worries. I learned later, through the Facebook group, that everybody got safely at home. That's what matters.
+Canceled! Weather Canada has a history of overreacting to weather conditions, so everyone was skeptical when they announced a severe thunderstorm coming to the area. Runners, volunteers, and organizers headed to Baden Hills as planned, just to be surprised by the force of the storm, which left part of the group stuck under the tents and others in the parking lot. I was in the car and could barely see outside, given the density of the rain. I was afflicted in there, thinking if I could be of any help outside, but the fear of being hit by lightning was overwhelming. On my way home, I witnessed at least three lightning strikes on the ground, which confirmed my worries. I learned later, through the Facebook group, that everybody got safely home. That's what matters.
 
 ## Stage 7: Saturday, 5km at Resurrection Catholic Secondary School, Kitchener
 
@@ -42,6 +42,14 @@ The seventh stage was a track race. We had to run 12.5 laps in the inner lane of
 
 ## Stage 8: Sunday, Half-Marathon at RIM Park, Waterloo
 
-## Tips
+## Takeaways
 
-- I left my bib in the car since I had to drive to race locations
+ - There is a single bib to identify each runner throughout all stages. We have to attach it to the clothing every time. So, I left my bib in the car since I had to drive to races in different locations.
+
+ - If you are running and the people with you are not, then make arrangements to engage them as volunteers.
+
+## Wrap Up
+
+ENDURrun races don't have a big field. They have just enough field to build strong connections among the participants. Everybody greets and encourages each other to keep pushing forward. Before and after each stage, we have so much to talk about. We share our running history, training adventures, what happened the day before, how the ranking looks like, what we planned to do next, which strategies to bridge the gaps, and mutual praise.
+
+Now, I have one year to build enough volume to run the Ultimate edition in 2024. I'm sure it will give me enough confidence to go far beyond the marathon distance.
