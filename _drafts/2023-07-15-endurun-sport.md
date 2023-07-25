@@ -42,11 +42,17 @@ The seventh stage was a track race. We had to run 12.5 laps in the inner lane of
 
 ## Stage 8: Sunday, Half-Marathon at RIM Park, Waterloo
 
+The last stage was a half-marathon on the Grand River Trail, in the surroundings of [RIM Park](https://www.waterloo.ca/en/things-to-do/rim-park.aspx). It was the same location as Stage 1, but with a slightly longer course, with 3 laps in a 7km loop. 21km is enough distance to catch up with other runners in the ranking, but it meant I needed to run one of my fastest half-marathons and hope others were not on their best day.
+
 ## Takeaways
 
  - There is a single bib to identify each runner throughout all stages. We have to attach it to the clothing every time. So, I left my bib in the car since I had to drive to races in different locations.
 
- - If you are running and the people with you are not, then make arrangements to engage them as volunteers.
+ - If you signed up for the race and other people with you have nothing else to do while you are running, then consider making arrangements to engage them as volunteers. Active hands are always welcome to move things around, mount, dismount, hydrate runners, mark, clear, clean, and so on.
+
+ - I increased my VO2Max by 1 point during the event. My last point took me 4 months to earn, and this one took me just a week, given the pressure to compete every day.
+
+ - My performance improved at every stage, despite the increase in intensity and competitiveness. The big question is: Do we really need a tempering period before a race?
 
 ## Wrap Up
 
