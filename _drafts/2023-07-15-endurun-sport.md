@@ -8,7 +8,7 @@ categories: running race endurance challenge canada
 
 ![ENDURrun Sport 2023](/sports/images/posts/endurrun-sport-2023.jpg)
 
-What is great about running is the countless variety of challenges we can face out there. There are races of all distances, all terrains, elevations, weather, and even all together in a single event. That's the case of ENDURrun, a staged race that offers something different every day for 7 days. I had the privilege of competing at the Sport edition this summer, which covers 80km of paved paths, trails, and tracks in different locations in the Waterloo region. This half the distance of the Ultimate edition, which challenges runners to complete 100 miles in a week.
+What is great about running is the countless variety of challenges we can face out there. There are races of all distances, all terrains, elevations, weather, and even all together in a single event. That's the case of ENDURrun, a staged race that offers something different every day for 7 days. I had the privilege of competing at the Sport edition this summer, which covers 80km of paved paths, trails, and tracks in different locations in the Waterloo region. This is half the distance of the Ultimate edition, which challenges runners to complete 100 miles in a week.
 
 <!-- more -->
 
@@ -52,17 +52,23 @@ With the cancellation, I finally had time to carefully look at the results up to
 
 ## Stage 7: Saturday, 5km at Resurrection Catholic Secondary School, Kitchener
 
-The seventh stage was a track race. We had to run 12.5 laps in the inner lane of the track. Because it was a short, flat, and fast course, we couldn't do much to bridge the gap between runners, so the overall ranking stayed the same, but that was so fun! The participants were divided into two heats, the fastest times in the first one and the remaining in the second heat. I was in the second one and had the chance to see the fastest running putting in place their strategies. Some started fast just to find themselves fading away in the last kilometers, others started slower to push harder at the end, and leaders took it easy, saving energy for the final stage. My strategy was to start slow and focus on passing the next runner, one by one until I couldn't anymore. I ended up finishing my heat first, which was unexpected.
+The seventh stage was a track race. We had to run 12.5 laps in the inner lane of the track. Because it was a short, flat, and fast course, we couldn't do much to bridge the gap between runners, so the overall ranking stayed the same, but that was so fun! The participants were divided into two heats, the fastest times in the first one and the remaining in the second heat. I was in the second one and had the chance to see the fastest running putting in place their strategies. Some started fast just to find themselves fading away in the last minutes, others started slower to push harder at the end, and leaders took it easy, saving energy for the final stage. My strategy was to start slow and focus on passing the next runner, one by one until I couldn't anymore. I ended up finishing my heat first, which was unexpected.
 
 ![ENDURrun Sport Stage 7](/sports/images/posts/endurrun-sport-stage7-2023.jpg)
 
 ## Stage 8: Sunday, Half-Marathon at RIM Park, Waterloo
 
-The last stage was a half-marathon on the Grand River Trail, in the surroundings of [RIM Park](https://www.waterloo.ca/en/things-to-do/rim-park.aspx). It was the same location as Stage 1, but with a slightly longer course, with 3 laps in a 7km loop. 21km is enough distance to catch up with other runners in the ranking, but it meant I needed to run one of my fastest half-marathons and hope others were not on their best day.
+The last stage was a half-marathon on the Grand River Trail, in the surroundings of [RIM Park](https://www.waterloo.ca/en/things-to-do/rim-park.aspx). It was the same location as Stage 1; but with a slightly longer loop, with 3 laps of 7km. 21km is enough distance to catch up with other runners in the ranking, but it meant I needed to run one of my fastest half-marathons and hope others were not on their best day.
+
+Around 1km into the race, Joanne paired with me and we ran side by side for 14km. During this time, I noticed something incredible: I was comfortably talking to Joanne all the time, and thus we were at a conversational pace, but the pace was 5:15/km! This is 40 seconds down the pace I thought was my easy one. I was feeling good, so good that I ran the last 7km averaging 4:50/km, making a new half-marathon best time!
+
+Something unusual happened that day. One of the runners forgot his left shoe. I have seen people forgetting a pair of shoes, or bringing the wrong pair of shoes, but I've never seen something forgetting one of the shoes. When I was about to leave the house that morning, I looked at my pair of Brooks and said: "I'm gonna bring these just in case". Looking at his desperate face, I feel I had a chance to save his day and said: "Are you 11?", "Yes", He said. I borrowed him my pair of Brooks and saw him disappear with the leading group. I was in the middle of the second lap when I saw him again, walking! "What just happened!" I thought. When I asked him, he said: "I'm done". Was it my Brooks' fault?! The next time I saw him, he was finishing the second lap, walking barefoot, holding my shoes. It was definitely my Brooks! I felt bad for him, but I also felt OK because that was not an act of sabotage. The good news is when I was halfway my last lap I saw him running again, with my pair of Brooks, a relief.
 
 ![ENDURrun Sport Stage 8](/sports/images/posts/endurrun-sport-stage8-2023.jpg)
 
 ## Takeaways
+
+ - I performed better when I ran negative splits, starting slow and accelerating when I felt I could. I did it in stages 4, 7, and 8, feeling good to go faster in the last minutes.
 
  - There is a single bib to identify each runner throughout all stages. We have to attach it to the clothing every time. So, I left my bib in the car since I had to drive to races in different locations.
 
