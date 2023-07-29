@@ -42,7 +42,7 @@ The only difference between Stages 3 and 4 was the distance. The course was the 
 
 ![ENDURrun Sport Stage 5](/sports/images/posts/endurrun-sport-stage5-2023.jpg)
 
-The fifth stage was tough. We ran a loop twice, on a pretty hilly trail along the Grand River. The trail is well-covered by trees and not technical at all, but part of it was closed for maintenance, forcing the organizers to adapt the course. I was optimistic after my Stage 4 performance, so I tried to closely follow faster runners, but soon the hills showed me down to a more realistic place. They were so steep that I got my heart rate up pretty quickly. The gap increased between me and the next runner to the point I had to change my strategy to simply maintain my position. Finished in 13th and 10th among males.
+The fifth stage was tough. We ran a loop twice, on a pretty hilly trail along the Grand River. The trail is well-covered by trees and not technical at all, but part of it was closed for maintenance, forcing the organizers to adapt the course. I was optimistic after my Stage 4 performance, so I tried to closely follow faster runners, but soon the hills slowed me down to a more realistic pace. They were so steep that I got my heart rate up pretty quickly. The gap increased between me and the next runner to the point I had to change my strategy to simply maintain my position. Finished in 13th and 10th among males.
 
 ## Stage 6: Thursday, 13.4km at Baden Hills, Wilmot
 
