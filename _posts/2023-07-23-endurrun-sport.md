@@ -18,7 +18,7 @@ The first edition of the ENDURrun Sport 2023 started with a moderate 10 km on th
 
 ![ENDURrun Sport Stage 1](/sports/images/posts/endurrun-sport-stage1-2023.jpg)
 
-Something special happened at this stage. My family volunteered in a race for the first time. My wife and kids were in charge of a water station. It was so cool to pass at their spot! But I had to be careful to take a cup from each kid so I wouldn't leave them, with their mother, debating my preferences.
+Something special happened at this stage. My family volunteered in a race for the first time. My wife and kids were in charge of a water station. It was so cool to pass at their spot! But I had to be careful to take a cup from each kid so I wouldn't leave them debating my preferences.
 
 ## Stage 2: Monday, 7.5km at Riverbluffs Park, Cambridge
 
