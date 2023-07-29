@@ -14,7 +14,7 @@ What is great about running is the variety of challenges we can sign up for. The
 
 ## Stage 1: Sunday, 10km at RIM Park, Waterloo
 
-The first edition of the ENDURrun Sport 2023 started with a moderate 10 km on the Grand River Trail, in the surroundings of [RIM Park](https://www.waterloo.ca/en/things-to-do/rim-park.aspx). The course was a 5km loop, mostly flat, with hills at the end of each lap. I started slowly, one of the last ones in the pack. Most of the runners pushed strong from the beginning, which scared me at first, but as I warmed up, I got faster and caught up with the others. I finished 14th overall and 10th among the males.
+The first edition of the ENDURrun Sport 2023 started with a moderate 10 km on the Grand River Trail, in the surroundings of [RIM Park](https://www.waterloo.ca/en/things-to-do/rim-park.aspx). The course was a 5km loop, mostly flat, with hills at the end of each lap. I started slowly, one of the last ones in the pack. Most of the runners pushed strong from the beginning, which scared me at first, but as I warmed up, I got faster and caught up with the others. I finished 14th overall and 10th among males.
 
 ![ENDURrun Sport Stage 1](/sports/images/posts/endurrun-sport-stage1-2023.jpg)
 
