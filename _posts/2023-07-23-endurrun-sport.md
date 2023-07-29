@@ -56,7 +56,7 @@ With the cancellation, I finally had time to carefully look at the results up to
 
 ![ENDURrun Sport Stage 7](/sports/images/posts/endurrun-sport-stage7-2023.jpg)
 
-The seventh stage was a track race. We had to run 12.5 laps in the inner lane of the track. Because it was a short, flat, and fast course, we couldn't do much to bridge the gap between runners, so the overall ranking stayed the same, but that was so fun! The participants were divided into two heats, the fastest times in the first one and the remaining in the second heat. I was in the second one and had the chance to see the fastest running putting in place their strategies. Some started fast just to find themselves fading away in the last minutes, others started slower to push harder at the end, and leaders took it easy, saving energy for the final stage. My strategy was to start slow and focus on passing the next runner, one by one, until I couldn't anymore. I ended up finishing my heat in the first place, which was unexpected.
+The seventh stage was a track race. We had to run 12.5 laps in the inner lane of the track. Because it was a short, flat, and fast course, we couldn't do much to bridge the gap between runners, so the overall ranking stayed the same, but that was so fun! The participants were divided into two heats, the fastest times in the first one and the remaining in the second heat. I was in the second one and had the chance to see the fastest runners putting in place their strategies. Some started fast just to find themselves fading away in the last minutes, others started slower to push harder at the end, and leaders took it easy, saving energy for the final stage. My strategy was to start slow and focus on passing the next runner, one by one, until I couldn't anymore. I ended up finishing my heat in the first place, which was unexpected.
 
 ## Stage 8: Sunday, Half-Marathon at RIM Park, Waterloo
 
@@ -78,7 +78,7 @@ Something unusual happened that day. One of the runners forgot his left shoe. I 
 
  - I increased my VO2Max by 1 point during the event. My last point took me 4 months to earn, and this one took me just a week, given the pressure to compete every day.
 
- - My performance improved at every stage, despite the increase in intensity and competitiveness. The big question is: Do we really need a tempering period before a race?
+ - My performance improved at every stage, despite the increase in intensity and competitiveness. The big question now is: Do we really need a tempering period before a race?
 
 ## Wrap Up
 
