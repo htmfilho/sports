@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ENDURrun Sport 2023"
-date: 2023-07-16 12:00:00 +0200
+date: 2023-07-23 12:00:00 +0200
 image: /sports/images/posts/endurrun-sport-2023.jpg
 categories: running race endurance challenge canada
 ---
