@@ -78,7 +78,7 @@ Something unusual happened that day. One of the runners forgot his left shoe. I 
 
  - I increased my VO2Max by 1 point during the event. My last point took me 4 months to earn, and this one took me just a week, given the pressure to compete every day.
 
- - My performance improved at every stage, despite the increase in intensity and competitiveness. The big question now is: Do we really need a tempering period before a race?
+ - My performance improved at every stage, despite the increase in intensity and competitiveness. The big question now is: Do we really need a tapering period before a race?
 
 ## Wrap Up
 
