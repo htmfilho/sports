@@ -24,7 +24,7 @@ With time, I learned that:
 
  - _my coach knew what he was doing_: I would be better off if I was strictly following the group sessions or following one of his specific running programs instead of doing my own thing.
 
- - _running more than what the body can endure is for races, not training_: in a race we give everything to get the best time. After that, we can take all the time to recover from that unusual effort. If we train as hard as the race we will accumulate fatigue and injuries, risking to break consistency. Long easy runs and short sprints is the key to effective training.
+ - _running more than what the body can endure is for races, not training_: in a race we give everything to get the best time. After that, we can take all the time to recover from that unusual effort. If we train as hard as the race we will accumulate fatigue and injuries, risking to break consistency. Long easy runs and short sprints are the key to effective training.
 
  - _consistency and patience are the minimum to get better and go further_: the best time to go for a run is when we feel we don't wanna go at all. The satisfaction after the run is overwhelming and it also establishes the consistency to slowly build fitness, endurance, and speed.
 
