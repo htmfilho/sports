@@ -45,7 +45,7 @@ layout: default
       <div class="panel-body">
           <div class="list-group">
             {% for post in site.posts limit:5 %}
-              <a href="{{ post.link }}"><img border="0" src="{{ post.image }}" width="42" align="left" style="margin-right: 10px;"></a><img src="{{ post.another_image }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+              <a href="{{ post.link }}"><img src="{{ post.image }}" style="margin-right: 10px;"></a>
               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
               <br>
