@@ -21,7 +21,7 @@ layout: default
         {{ content }}
       </div>
 
-      <div class="PageNavigation">
+      <div class="PageNavigation" style="background-color:lightgrey; padding: 5px;">
       {% if page.previous.url %}
         <a class="btn btn-default" href="{{site.baseurl}}{{page.previous.url}}" title="{{page.previous.title}}">&laquo; Previous</a>
       {% endif %}
@@ -44,10 +44,12 @@ layout: default
       </div>
       <div class="panel-body">
           <div class="list-group">
-            {% for post in site.posts limit:5 %}
-              <a href="{{ post.link }}"><img src="{{ post.image }}" style="margin-right: 10px;"></a>
-              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            {% for post in site.posts limit:7 %}
+              {% if page.title != post.title %}
+                <a href="{{ post.link }}"><img src="{{ post.image }}" style="margin-right: 10px;"></a>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              {% endif %}
               <br>
             {% endfor %}
           </div>
