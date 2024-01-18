@@ -38,7 +38,7 @@ I firmly believe that Gauss and Laplace were right about their [normal distribut
 
 ## 5. Eventually, we run out of water
 
-It happened only once, but when it happened I was thankful for being an endurance runner. It was in the last ENDURrun event, the marathon. The race started when it was still dark and chilly, but the weather quickly shifted to warm and humid after the sunrise. Runners were profusely sweating, getting quickly thirsty, and consuming a lot of water and sports drink. We were never concerned, up to that point, about the availability of fluids, but we had a feeling that something was not right and decided to check how much water and Gatorade were left in the containers. Panic!!! The Gatorade level was still OK, but the water was almost empty, and we knew we had a lot of water "customers" coming up.
+It happened only once, but when it happened I was thankful for being an endurance athlete. It was in the last ENDURrun stage, the marathon. The race started when it was still dark and chilly, but the weather quickly shifted to warm and humid after the sunrise. Runners were profusely sweating, getting quickly thirsty, and consuming a lot of water and sports drink. We were never concerned, up to that point, about the availability of fluids, but we had a feeling that something was not right and decided to check how much water and Gatorade were left in the containers. Panic!!! The Gatorade level was still OK, but the water was almost empty, and we knew we had a lot of water "customers" coming up.
 
 We were in the middle of the trail, surrounded by nature, 3 km from the start and 1 km from the nearest street. We had to notify the race director about our needs, pull a cart with the empty container for 1km, meet the support crew with a full container, and pull the cart back to the water station as fast as possible. And that's what I did. Before leaving, we emptied the remaining water in cups to keep up with the demand while I was out. I ran so fast caring that cart that I even passed all the runners ahead. I arrived just in time to prevent a supply disruption. I considered that moment as my water station graduation.
 
@@ -46,11 +46,11 @@ We were in the middle of the trail, surrounded by nature, 3 km from the start an
 
 ## 6. The Snake
 
-The stage was 4. 10 miles hill run in the [Walter Bean Trail](https://www.kitchener.ca/en/parks-and-trails/walter-bean-grand-river-trail.aspx). Part of the trail was closed for maintenance, forcing the organizers to change the course to a branch that linked the trail to the road. Our water station was positioned right at the turn of that branch, where they would grab a cup, make the turn around a big rock, drop the empty cup in a trash bean, and continue the loop.
+The stage was 4. 10 miles hill run in the [Walter Bean Trail](https://www.kitchener.ca/en/parks-and-trails/walter-bean-grand-river-trail.aspx). Part of the trail was closed for maintenance, forcing the organizers to change the course to a branch that linked the trail to the road. Our water station was positioned right at the turn of that branch, where they would grab a cup, make the turn around a big rock, drop the empty cup in a trash bin, and continue the loop.
 
 ![The Turning Rock](/sports/images/posts/tales-water-station-3.jpg)
 
-What the runners were not aware of was that there was a snake under that rock! We arrived at the spot right at the moment the snake snicked under the rock. It remained there for the rest of the race and all runners were less than a meter from it in 3 ocasions.
+What the runners were not aware of was that there was a snake under that rock! We arrived at the spot right at the moment the snake sneaked under the rock. It stayed there for the rest of the race and all runners were less than a meter from it in 3 occasions.
 
 I learned later that species is not venomous and would scare only those who have some sort of phobia.
 
