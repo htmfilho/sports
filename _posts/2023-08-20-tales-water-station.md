@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tales from A Water Station Far Far Away"
-date: 2024-01-18 12:00:00 +0200
+date: 2023-08-20 12:00:00 +0200
 image: /sports/images/posts/tales-water-station.jpg
 categories: running race volunteer aid
 ---
@@ -30,7 +30,7 @@ The one thing that will keep you up and forward the whole time is a proper hydra
 
 Running is probably as much mental as it is physical. In a water station, we have plenty of time to observe runners, so we noticed that some runners keep the mind in sync with the body by following some ritual. We saw runners switching their cap back and forth after a lap, keeping their mouth closed the entire time, running in pairs, and even believing that the weight of a t-shirt would make a difference on the final time.
 
-However, the one ritual I was expecting to see was runners washing their hands and faces, but I couldn't witness that. This is an evolutionary adaptation that humans acquired over thousands of years to cooldown their bodies when exposed to high temperatures. We can observe it often in ultra trail races, specially when runners are crossing rivers, creeks or lakes. They instinctively wash their faces and hands, which have great volume of blog flowing under the skin, distributing the cold of the water throughout the body. It has the potential to improve the runner's performance by 15%.
+However, the one ritual I was expecting to see was runners washing their hands and face, but I couldn't witness that. This is an evolutionary adaptation that humans acquired over thousands of years to cooldown their bodies when exposed to high temperatures. We can observe it often in ultra trail races, specially when runners are crossing rivers, creeks or lakes. They instinctively wash their faces and hands, which have great volume of blog flowing under the skin, distributing the cold of the water throughout the body. It has the potential [to improve the runner's performance by 15%](https://pubmed.ncbi.nlm.nih.gov/27267974/).
 
 ## 4. You think you are doing a great job until the middle of the pack hits you
 
