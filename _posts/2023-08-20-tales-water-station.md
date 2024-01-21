@@ -10,7 +10,7 @@ categories: running race volunteer aid
 
 Running is the most collective among individual sports. There is a sense of community and mutual support rarely seen in other sports. When we go for a run with friends or in a race, we feel that we are not alone, that going through the same struggle actually reinforces our bounds.
 
-The same phenomenon happens all around the running event. Those who organize, volunteer, and watch such events also feel bounded among themselves and to runners. They also have the privilege of observing the runners, feel their body language, cheer for them, expecting nothing in return, still willing to assist with anything they need. I like to say that **a runner will only understand the true meaning of running when they experience a day as a racer, as a spectator, as a volunteer, and as a organizer**.
+The same phenomenon happens all around the running event. Those who organize, volunteer, and watch such events also feel bonded among themselves and to runners. They also have the privilege of observing the runners, feel their body language, cheer for them, expecting nothing in return, still willing to assist with anything they need. I like to say that **a runner will only understand the true meaning of running when they experience a day as a racer, as a spectator, as a volunteer, and as a organizer**.
 
 <!-- more -->
 
@@ -18,9 +18,9 @@ My first experience as volunteer was at [ENDURrun Ultimate 2023](https://raceros
 
 I brought my whole family to volunteer with me. They already accumulated some experience volunteering at the Sport edition, which happened a month earlier, so I could learn with them and make a great team to support the runners. Here are some of the tales from our water stations:
 
-## 1. Most runners drink water, but the demand for Gatorade	increases as the race gets thougher
+## 1. Most runners drink water, but the demand for Gatorade	increases as the race gets tougher
 
-I've seen some research showing that water is as effective as Gatorade on hydrating runners. I don't know how they ran their experiments, but I believe the extra calories and the electrolytes in Gatorade's formula helps in longer distances. Our water station offered both water and Gatorade, and we noticed that the most experienced runners prefer water while the  other ones opted for Gatorade. But the curious fact is that, by the end of the race, all of them preferred Gatorade. Looks like the brain push us for more calories when things get tougher.
+I've seen some research showing that water is as effective as Gatorade on hydrating runners. I don't know how they ran their experiments, but I believe the extra calories and the electrolytes in Gatorade's formula helps in longer distances. Our water station offered both water and Gatorade, and we noticed that the most experienced runners prefer water while the  other ones opted for Gatorade. But the curious fact is that, by the end of the race, all of them preferred Gatorade. Looks like the brain pushes us for more calories when things get tougher.
 
 ## 2. For those slow runners who take two cups, let me tell you a secret: elite runners do the same
 
@@ -30,7 +30,7 @@ The one thing that will keep you up and forward the whole time is a proper hydra
 
 Running is probably as much mental as it is physical. In a water station, we have plenty of time to observe runners, so we noticed that some runners keep the mind in sync with the body by following some ritual. We saw runners switching their cap back and forth after a lap, keeping their mouth closed the entire time, running in pairs, and even believing that the weight of a t-shirt would make a difference on the final time.
 
-However, the one ritual I was expecting to see was runners washing their hands and face, but I couldn't witness that. This is an evolutionary adaptation that humans acquired over thousands of years to cooldown their bodies when exposed to high temperatures. We can observe it often in ultra trail races, specially when runners are crossing rivers, creeks or lakes. They instinctively wash their faces and hands, which have great volume of blood flowing under the skin, distributing the cold of the water throughout the body. It has the potential [to improve the runner's performance by 15%](https://pubmed.ncbi.nlm.nih.gov/27267974/).
+However, the one ritual I was expecting to see was runners washing their hands and face, but I couldn't witness that. This is an evolutionary adaptation that humans acquired over thousands of years to cool down their bodies when exposed to high temperatures. We can observe it often in ultra trail races, specially when runners are crossing rivers, creeks or lakes. They instinctively wash their faces and hands, which have great volume of blood flowing under the skin, distributing the cold of the water throughout the body. It has the potential [to improve the runner's performance by 15%](https://pubmed.ncbi.nlm.nih.gov/27267974/).
 
 ## 4. You think you are doing a great job until the middle of the pack hits you
 
@@ -40,7 +40,7 @@ I firmly believe that Gauss and Laplace were right about their [normal distribut
 
 It happened only once, but when it happened I was thankful for being an endurance athlete. It was in the last ENDURrun stage, the marathon. The race started when it was still dark and chilly, but the weather quickly shifted to warm and humid after the sunrise. Runners were profusely sweating, getting quickly thirsty, and consuming a lot of water and sports drink. We were never concerned, up to that point, about the availability of fluids, but we had a feeling that something was not right and decided to check how much water and Gatorade were left in the containers. Panic!!! The Gatorade level was still OK, but the water was almost empty, and we knew we had a lot of water "customers" coming up.
 
-We were in the middle of the trail, surrounded by nature, 3 km from the start and 1 km from the nearest street. We had to notify the race director about our needs, pull a cart with the empty container for 1km, meet the support crew with a full container, and pull the cart back to the water station as fast as possible. And that's what I did. Before leaving, we emptied the remaining water in cups to keep up with the demand while I was out. I ran so fast caring that cart that I even passed all the runners ahead. I arrived just in time to prevent a supply disruption. I considered that moment as my water station graduation.
+We were in the middle of the trail, surrounded by nature, 3 km from the start and 1 km from the nearest street. We had to notify the race director about our needs, pull a cart with the empty container for 1km, meet the support crew with a full container, and pull the cart back to the water station as fast as possible. And that's what I did. Before leaving, we emptied the remaining water in cups to keep up with the demand while I was out. I ran so fast carrying that cart that I even passed all the runners ahead. I arrived just in time to prevent a supply disruption. I considered that moment as my water station graduation.
 
 ![Water Station at Stage 7](/sports/images/posts/tales-water-station-2.jpg)
 
