@@ -52,7 +52,7 @@ We were so excited about this race and glad to strike it out from our wish list.
 
 Despite the elastic time, it was a nice Z2 long run, finished without injures and in good phisical condition. It was hot, but I managed my hydration very well, which is a great lesson-learned from all previous marathons.
 
-Number: 12
-Time: 05:10:13
-Best Marathon Time to Date: 03:56:04
-Elevation: 86 m
+**Number**: 12\
+**Time**: 05:10:13\
+**Best Marathon Time to Date**: 03:56:04\
+**Elevation**: 86 m
