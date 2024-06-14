@@ -13,3 +13,8 @@ Head
 <!-- more -->
 
 Body
+
+**Number**: 2\
+**Distance**: 50km\
+**Time**: 05:25:55\
+**Elevation**: 784 m
