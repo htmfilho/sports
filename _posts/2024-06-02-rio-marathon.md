@@ -50,7 +50,7 @@ The temperature was high, and the view was too distracting, but what really affe
 
 We were so excited about this race and glad to strike it out from our wish list. It is frustrating not to be able to recommend it to our fellow runners. Actually, these issues are easy to solve. A single trip to a race in Europe or North America would give them insights about how to do it right. For the moment, they are too far from a proper running destination. Avoid it if you can resist those natural wonders.
 
-Despite the elastic time, it was a nice Z2 long run, finished without injures and in good phisical condition. It was hot, but I managed my hydration very well, which is a great lesson-learned from all previous marathons.
+Despite the elastic time, it was a nice Z2 long run, finished without injuries and in good physical condition. It was hot, but I managed my hydration well, which is a great lesson learned from all previous marathons.
 
 **Number**: 12\
 **Time**: 05:10:13\
