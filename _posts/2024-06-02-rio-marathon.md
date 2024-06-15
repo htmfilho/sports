@@ -12,9 +12,9 @@ It might be in our DNA. When we need to go to the washroom, the closer we get to
 
 <!-- more -->
 
-The Rio Marathon is the largest running event in Brazil. It takes place in [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), a city surrounded by mountains and the largest urban forest in the world: [Floresta da Tijuca](https://en.wikipedia.org/wiki/Tijuca_National_Park). It is beautiful from a distance and chaotic from closer. Despite the incredible course, iconic at every corner, the race was the worst experience I ever had in a marathon.
+The Rio Marathon is the largest running event in Brazil. It takes place in [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), a city surrounded by mountains and the largest urban forest in the world: [Floresta da Tijuca](https://en.wikipedia.org/wiki/Tijuca_National_Park). It is beautiful from a distance and chaotic as you get closer. Despite the incredible course, iconic at every corner, the race was the worst experience I ever had in a marathon.
 
-I had no personal goal this time. I was just pacing my wife to achieve her first personal best in her second marathon. For me, it was an easy long run in preparation for my next race. We were excited about the course, for the first time racing in Brazil, and for the overall experience, but all turned out to be frustrating. I could list so many issues, but I will limit myself to just a few that I thought were critical to a minimally viable race:
+I had no personal goal this time. I was pacing my wife to achieve her first personal best in her second marathon. It was an easy long run for me in preparation for my next race. We were excited about the course, for the first time racing in Brazil, and for the overall experience, but all turned out to be frustrating. I could list so many issues, but I will limit myself to just a few that I thought were critical to a minimally viable race:
 
 ## Crowded Expo
 
@@ -32,7 +32,7 @@ In the first kilometers, runners were already talking about their urge to go to 
 
 ## Trash, Trash, and More Trash
 
-Water was served in plastic cups and all thrown away on the streets, forming piles and piles of garbage. An environmental disaster! I saw some Garis (city cleaners) cleaning the mess, so I supposed the city was in charge of the clean-up, not the organizers, which is unusual and less efficient. By the way, people working for the race were not volunteers. They were paid to be there, but they acted like they didn't want to. In my experience, races run by volunteers are much better. They act like they own the race. They are self-managed, proactive, and problem solvers.
+Water was served in plastic cups and all thrown away on the streets, forming piles and piles of garbage. An environmental disaster! I saw some Garis (city cleaners) cleaning the mess, so I suppose the city was in charge of the clean-up, not the organizers, which is unusual and less efficient. By the way, people working for the race were not volunteers. They were paid to be there but acted like they didn't want to. In my experience, races run by volunteers are much better. They act like they own the race. They are self-managed, proactive, and problem solvers.
 
 ![Water Station](/sports/images/posts/rio-marathon-2024-water.jpg)
 
@@ -40,11 +40,11 @@ The water cup was actually handy. The water was contained by a thin aluminum cap
 
 ## Something Positive Though
 
-In my opinion, the pictures package was the best feature of this race. There were so many photographers, especially at those spots with iconic views like the Sugar Loft, Corcovado, Tomorrow Museum, Copacabana, and Ipanema Beaches. They were strategically positioned to get the best shots. But that was all. Further reflecting on this, how can a secondary and optional feature, like pictures, be better executed than the actual race? Was it because other companies ran it for them or because what really matters is to let runners organically promote the race on social media using those amazing pictures?
+In my opinion, the pictures package was the best feature of this race. There were so many photographers, especially at those spots with iconic views like the Sugarloaf, Corcovado, Tomorrow Museum, Copacabana, and Ipanema Beaches. They were strategically positioned to get the best shots. But that was all. Further reflecting on this, how can a secondary and optional feature, like pictures, be better executed than the actual race? Was it because other companies ran it for them or because what really matters is to let runners organically promote the race on social media using those amazing pictures?
 
 ## Wrapping Up
 
-The temperature was high, and the view was too distracting, but what really affected our race was the lack of washrooms. In the three days that preceded the race, we did a lot of city tours and ate in many restaurants, which we think made our stomach and gut upset. So, during the race, the dehydration was aggravated by dysentery. Widely available washrooms would make the experience less painful. To give you an idea of the suffering, we really considered pooping behind a car parked on the street. We held it, but just having that tough is disturbing.
+The temperature was high, and the view was too distracting, but what really affected our race was the lack of washrooms. In the three days that preceded the race, we did a lot of city tours and ate in many restaurants, which we think made our stomach and gut upset. So, during the race, the dehydration was aggravated by gastro problems. Widely available washrooms would make the experience less painful. To give you an idea of the suffering, we really considered pooping behind a car parked on the street. We held it, but just having that thought is disturbing.
 
 ![Maratona do Rio 2024 - Sugar Loft](/sports/images/posts/rio-marathon-2024-sugar-loft.jpg)
 
