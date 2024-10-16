@@ -14,7 +14,7 @@ Head
 
 ## Stage 7: Marathon at RIM Park
 
-Number: 13
-Time: 04:12:27
-Best Marathon Time to Date: 03:56:04
-Elevation: 190 m
+Number: 13\
+Time: 04:12:27\
+Best Marathon Time to Date: 03:56:04\
+Elevation: 190 m\
